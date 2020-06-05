@@ -7,7 +7,7 @@ This Project supported by ROSIN - ROS-Industrial Quality-Assured Robot Software 
 More information: rosin-project.eu
 
 This project has received funding from the European Union’s Horizon 2020
-research and innovation programme under grant agreement No. 732287.
+research and innovation programme under grant agreement No. 732287, visit https://www.rosin-project.eu/ftp/virtual-robotic-laboratory-and-learning-materials-for-rosin-ep
 
 
 
